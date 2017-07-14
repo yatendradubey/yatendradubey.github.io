@@ -1,12 +1,14 @@
 
-h1{
+h2{
 	font-family: sans-serif;
-	margin: 0px 0px 0px 10px;
+	margin: 5px 0px 0px 10px;
+	font-size: 3vw;
 }
 
 h4{
 	font-family: sans-serif;
 	margin: 0px 0px 5px 10px;
+	font-size: 1.5vw;
 }
 
 .jumbotron{
