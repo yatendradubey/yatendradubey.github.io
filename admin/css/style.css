@@ -1,0 +1,23 @@
+
+body{
+	background-color: ghostwhite;
+}
+.btn-unique {
+    color: #9d9d9d;
+    background-color: #222222;
+    border-color: #000000;
+}
+
+.btn-unique:focus,
+.btn-unique:hover,
+.btn-unique:active
+.btn-unique.active {
+    color: #fff;
+    background-color: #222222;
+    border-color: #000000;
+}
+
+.jumbotron{
+	width: 300px;
+	background-color: #d0d0d0;
+}
