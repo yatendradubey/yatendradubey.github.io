@@ -18,6 +18,13 @@ body{
 }
 
 .jumbotron{
-	width: 300px;
+	width: 400px;
 	background-color: #d0d0d0;
+}
+
+.other-color{
+	width: 100%;
+	color: white;
+	background-color: #222222;
+	margin-bottom: 0px;
 }
